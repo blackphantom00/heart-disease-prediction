@@ -4,14 +4,7 @@ Prerequisites
     Python 3.9 or higher
     pip
 
-Step 1 — Clone the repository
-
-Bash
-
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
-
-Step 2 — Create a virtual environment
+Step 1  — Create a virtual environment
 
 Bash
 
